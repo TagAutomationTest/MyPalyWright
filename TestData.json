@@ -1,0 +1,16 @@
+{
+  "baseURL": "https://qacart-todo.herokuapp.com/",
+  "LoginUrl": "https://qacart-todo.herokuapp.com/login",
+  "pageTitle": "QAcart Todo App - Login page",
+  "pageHeader": "Login to Application",
+  "ValidUser": {
+    "username": "Tag49163@gmail.com",
+    "password": "Zahraa@123456789",
+    "homeTitle": "QAcart Todo App - Todos page"
+  },
+  "invalidUser": {
+    "username": "tag@gmail.com",
+    "password": "123444",
+    "validationMsg": "Please Fill a correct Password"
+  }
+}

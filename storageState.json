@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "access_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4N2QwYWJkYzI2OTZhMDAxNGZmOTQxNyIsImZpcnN0TmFtZSI6IkFobWVkICIsImxhc3ROYW1lIjoiVGFnIiwiaWF0IjoxNzUzMDYwOTYzfQ.SpkSaNOIjqMyys1aCE2SBrKC9-KkSgIEkLL0cR0SZHQ",
+      "domain": "qacart-todo.herokuapp.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userID",
+      "value": "j%3A%22687d0abdc2696a0014ff9417%22",
+      "domain": "qacart-todo.herokuapp.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "firstName",
+      "value": "Ahmed%20",
+      "domain": "qacart-todo.herokuapp.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
