@@ -4,8 +4,8 @@
   "pageTitle": "QAcart Todo App - Login page",
   "pageHeader": "Login to Application",
   "ValidUser": {
-    "username": "Tag49163@gmail.com",
-    "password": "Zahraa@123456789",
+    "username": "Tag33@gmail.com",
+    "password": "P@ssw0rd",
     "homeTitle": "QAcart Todo App - Todos page"
   },
   "invalidUser": {
